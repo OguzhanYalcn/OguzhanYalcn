@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yalçın</h1>
 <h2 align="center">🚀 Java & Angular Full Stack Developer in Training | Istanbul Kodluyor</h2>
-<h4> 🔭 I’m currently working on Java and Angular </h4>
+<h3 align="center"> 🔭 I’m currently working on Java and Angular </h3>
 <h4> 🌱 I’m currently learning C#, .Net </h4>
 
 <div> 
