@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yalçın</h1>
-<h3 align="center">🚀 Java & Angular Full Stack Developer in Training | Istanbul Kodluyor</h3>
-- 🔭 I’m currently working on **Java and Angular**
-- 🌱 I’m currently learning **C#, .Net**
+<h2 align="center">🚀 Java & Angular Full Stack Developer in Training | Istanbul Kodluyor</h2>
+<h3> 🔭 I’m currently working on **Java and Angular** </h3>
+<h3> 🌱 I’m currently learning **C#, .Net** </h3>
 
 - 📫 How to reach me **oguzhanyalcin3968@gmail.com**
 
@@ -39,6 +39,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OguzhanYalcn&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OguzhanYalcn&theme=nightowl" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OguzhanYalcn&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OguzhanYalcn&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OguzhanYalcn&theme=2077" height="180em" />
 </div>
