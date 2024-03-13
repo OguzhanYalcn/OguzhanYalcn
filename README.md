@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yalçın</h1>
 <h2 align="center">🚀 Java & Angular Full Stack Developer in Training | Istanbul Kodluyor</h2>
-<h3 align="center"> 🔭 I’m currently working on Java and Angular </h3>
+<h3> 🔭 I’m currently working on Java and Angular </h3>
 <h3> 🌱 I’m currently learning C#, .Net </h3>
 
-<h5 align="center">Connect with me</h5>
+<h4 align="center">Connect with me</h4>
 <div align="center"> 
 <a href="https://www.linkedin.com/in/oguzhan-yalcin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:oguzhanyalcin3968@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
