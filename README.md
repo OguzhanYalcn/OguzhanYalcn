@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yalçın</h1>
 <h2 align="center">🚀 Java & Angular Full Stack Developer in Training | Istanbul Kodluyor</h2>
-<h3> 🔭 I’m currently working on Java and Angular </h3>
-<h3> 🌱 I’m currently learning C#, .Net </h3>
-
+<img align="right" height="200px" src="https://github.com/OguzhanYalcn/OguzhanYalcn/blob/main/trial.gif">
+  <h3> 🔭 I’m currently working on Java and Angular </h3>
+  <h3> 🌱 I’m currently learning C#, .Net </h3>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h4 align="center">Connect with me</h4>
 <div align="center"> 
 <a href="https://www.linkedin.com/in/oguzhan-yalcin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -10,7 +15,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
